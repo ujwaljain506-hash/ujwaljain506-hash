@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Campus Connect (Flutter + Firebase) — a college app for notices and student info, and rebuilding my Anime Recommendation System to strengthen independent ML coding<br>🌱 I'm currently learning: Machine Learning (Scikit-learn, EDA, model building), Data Structures & Algorithms, and Flutter/Firebase<br>💬 Ask me about: Flutter, Firebase, or ML projects
+🔭 I'm currently working on: Campus Connect (Flutter + Firebase) — a college app for notices and student info, and rebuilding my Anime Recommendation System to strengthen independent ML coding<br>🌱 I'm currently learning: Machine Learning (Scikit-learn, EDA, model building), Data Structures & Algorithms, and Flutter/Firebase<br>💬 Ask me about: Flutter, Firebase, or ML project
 
 
 ## 🌐 Socials:
